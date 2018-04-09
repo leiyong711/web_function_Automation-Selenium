@@ -21,6 +21,7 @@
 <br>
 ## 测试报告图片展示：
 ###测试报告默认状态
+<br>
 ![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/1.jpg)
 <br>
 ###测试报告详情全部展开状态
