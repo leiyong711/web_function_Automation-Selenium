@@ -1,4 +1,5 @@
 #Web UI功能自动化测试
+![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/1.jpg)
 ![效果图请看：](http://img.blog.csdn.net/20160809162959877)
 #### 环境：
 * * *
