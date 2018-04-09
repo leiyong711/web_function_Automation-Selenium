@@ -1,5 +1,4 @@
 #Web UI功能自动化测试
-
 #### 环境：
 * * *
 * selenium 2
@@ -7,8 +6,6 @@
 * 火狐浏览器 47 以下版本（谷歌浏览器需安装对应版本驱动）
 * * * 
  <br>
-![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/1.jpg)
-<br>
 #### 描述：
 * * *
 * 该框架内包含测试完毕后自动发送邮件功能
@@ -24,7 +21,6 @@
 <br>
 ## 测试报告图片展示：
 ###测试报告默认状态
-<br>
 ![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/1.jpg)
 <br>
 ###测试报告详情全部展开状态
