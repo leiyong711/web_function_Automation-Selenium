@@ -8,6 +8,7 @@
 * * * 
  <br>
 ![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/1.jpg)
+<br>
 #### 描述：
 * * *
 * 该框架内包含测试完毕后自动发送邮件功能
