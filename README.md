@@ -21,10 +21,10 @@
 <br>
 ## 测试报告图片展示：
 ###测试报告默认状态
-![image](https://github.com/leiyong711/web_function_Automation-Selenium/raw/master/1.jpg)
+![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/1.jpg)
 <br>
 ###测试报告详情全部展开状态
-![image](https://github.com/leiyong711/web_function_Automation-Selenium/raw/master/2.jpg)
+![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/2.jpg)
 <br>
 ###用例例程：
 <pre class="prettyprint lang-javascript">  
