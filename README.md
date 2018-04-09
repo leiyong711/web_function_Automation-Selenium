@@ -21,10 +21,10 @@
 <br>
 ## 测试报告图片展示：
 ###测试报告默认状态
-![Alt text](1.jpg)
+![Alt text](/1.jpg)
 <br>
 ###测试报告详情全部展开状态
-![Alt text](2.jpg)
+![Alt text](/2.jpg)
 <br>
 ###用例例程：
 <pre class="prettyprint lang-javascript">  
