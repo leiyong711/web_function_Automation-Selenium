@@ -1,6 +1,5 @@
 #Web UI功能自动化测试
-![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/1.jpg)
-![效果图请看：](http://img.blog.csdn.net/20160809162959877)
+
 #### 环境：
 * * *
 * selenium 2
@@ -8,7 +7,7 @@
 * 火狐浏览器 47 以下版本（谷歌浏览器需安装对应版本驱动）
 * * * 
  <br>
-![效果图请看：](http://img.blog.csdn.net/20160809162959877)
+![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/1.jpg)
 #### 描述：
 * * *
 * 该框架内包含测试完毕后自动发送邮件功能
