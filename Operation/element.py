@@ -1,52 +1,30 @@
-#Web UI功能自动化测试
-#### 环境：
-* * *
-* selenium 2
-* Python 2.7
-* 火狐浏览器 47 以下版本（谷歌浏览器需安装对应版本驱动）
-* * * 
- <br>
-#### 描述：
-*该框架内包含测试完毕后自动发送邮件功能
-<br>
-<br>
-<br>
+# !/usr/bin/env python
+# -*- coding:utf-8 -*-
+# project name: web_function_Automation-Selenium
+# author: "Lei Yong" 
+# creation time: 2018/4/9 14:17
+# Email: leiyong711@163.com
 
-#### 用到的第三方的库（可能需自己安装）：
-* * *
-1.  email -- 4.0.2
-2.  selenium -- 2.53.6
-* * *
-<br>
-###用例例程：
-<pre class="prettyprint lang-javascript">  
-class Test(unittest.TestCase):
-    """火狐浏览器测试"""
+import time
+from selenium import webdriver
 
-    def setUp(self):
-        self.driver = el.Driver()
-
-    def testpassCase001(self):
-        """百度搜索Python成功"""
-        el.openurl("http://www.baidu.com")
-        el.id("kw").send_keys("python")
-        el.id("su").click()
-
-    def testfailCase002(self):
-        """百度搜索Python按钮点击失败"""
-        el.openurl("http://www.baidu.com")
-        el.id("kw").send_keys("python")
-        el.id("su1").click()
-
-    def tearDown(self):
-        self.driver.quit()
+c = 0
 
 
-</pre>
+class Element(object):
 
-<br>
-### 封装常用元素定位方法
-<pre class="prettyprint lang-javascript">
+    def __init__(self):
+
+        self.driver = webdriver.Firefox()
+        if c == 0:
+            self.driver.quit()
+
+    def Driver(self):
+        global c
+        c = 5
+        self.__init__()
+        return self.driver
+
     # 打开网页
     def openurl(self, url):
         print("打开网页：%s" % url)
@@ -142,5 +120,3 @@ class Test(unittest.TestCase):
                 print("%s:元素未找到,当前第%s次寻找" % (value, count))
                 count += 1
                 time.sleep(0.5)
-
-</pre>
