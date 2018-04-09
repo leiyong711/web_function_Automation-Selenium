@@ -1,5 +1,5 @@
 #Web UI功能自动化测试
-[作者：微博](http://weibo.com/mcxiaobing )
+![效果图请看：](http://img.blog.csdn.net/20160809162959877)
 #### 环境：
 * * *
 * selenium 2
@@ -7,7 +7,7 @@
 * 火狐浏览器 47 以下版本（谷歌浏览器需安装对应版本驱动）
 * * * 
  <br>
-[作者：微博](http://weibo.com/mcxiaobing )
+![效果图请看：](http://img.blog.csdn.net/20160809162959877)
 #### 描述：
 * * *
 * 该框架内包含测试完毕后自动发送邮件功能
