@@ -7,9 +7,10 @@
 * * * 
  <br>
 #### 描述：
-*该框架内包含测试完毕后自动发送邮件功能
-<br>
-<br>
+* * *
+* 该框架内包含测试完毕后自动发送邮件功能
+* 测试报告包含测试失败截图
+* * *
 <br>
 
 #### 用到的第三方的库（可能需自己安装）：
@@ -17,6 +18,13 @@
 1.  email -- 4.0.2
 2.  selenium -- 2.53.6
 * * *
+<br>
+## 测试报告图片展示：
+###测试报告默认状态
+![Alt text](1.jpg)
+<br>
+###测试报告详情全部展开状态
+![Alt text](2.jpg)
 <br>
 ###用例例程：
 <pre class="prettyprint lang-javascript">  
@@ -144,3 +152,11 @@ class Test(unittest.TestCase):
                 time.sleep(0.5)
 
 </pre>
+
+<br>
+<br>
+<br>
+##测试报告模板引用github上大神的，然后自己做了一下优化。[大神github地址](https://github.com/findyou)
+<br>
+<br>
+<br>
