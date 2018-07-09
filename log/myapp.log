@@ -1,0 +1,1740 @@
+18-07-05 17:59:34 element.py{funcName:openurl}[line:35] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-05 17:59:36 element.py{funcName:windowMax}[line:48] INFO 浏览器最大化
+18-07-05 17:59:37 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:37 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:37 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:37 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:37 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:37 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:37 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:37 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:37 element.py{funcName:css}[line:105] INFO Css 元素定位：.login-button
+18-07-05 17:59:37 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-05 17:59:38 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-05 17:59:38 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-05 17:59:39 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-05 17:59:39 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-05 17:59:40 element.py{funcName:openurl}[line:35] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-05 17:59:40 element.py{funcName:windowMax}[line:48] INFO 浏览器最大化
+18-07-05 17:59:40 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:40 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:40 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:40 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:40 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:40 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:40 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:40 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:40 element.py{funcName:css}[line:105] INFO Css 元素定位：.login-button
+18-07-05 17:59:40 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-05 17:59:41 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-05 17:59:41 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-05 17:59:42 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-05 17:59:42 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-05 17:59:43 element.py{funcName:openurl}[line:35] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-05 17:59:43 element.py{funcName:windowMax}[line:48] INFO 浏览器最大化
+18-07-05 17:59:43 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:43 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:43 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:43 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:44 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:44 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:44 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:44 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:44 element.py{funcName:css}[line:105] INFO Css 元素定位：.login-button
+18-07-05 17:59:44 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-05 17:59:45 element.py{funcName:openurl}[line:35] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-05 17:59:45 element.py{funcName:windowMax}[line:48] INFO 浏览器最大化
+18-07-05 17:59:45 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:45 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:45 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:45 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:45 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:45 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:45 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:45 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:45 element.py{funcName:css}[line:105] INFO Css 元素定位：.login-button
+18-07-05 17:59:45 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-05 17:59:52 element.py{funcName:windowMax}[line:48] INFO 浏览器最大化
+18-07-05 17:59:54 element.py{funcName:openurl}[line:35] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-05 17:59:55 element.py{funcName:windowMax}[line:48] INFO 浏览器最大化
+18-07-05 17:59:55 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:55 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:55 element.py{funcName:name}[line:87] INFO Name 元素定位：username
+18-07-05 17:59:55 element.py{funcName:name}[line:87] INFO Name 元素定位：password
+18-07-05 17:59:55 element.py{funcName:css}[line:105] INFO Css 元素定位：.login-button
+18-07-05 17:59:57 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'财务管理')]
+18-07-05 17:59:58 element.py{funcName:text}[line:111] INFO Text 元素定位：人工存提
+18-07-05 17:59:59 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-05 18:00:00 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-05 18:00:00 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:00:01 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:00:01 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:00:02 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-05 18:00:02 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-05 18:00:03 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第4次寻找
+18-07-05 18:00:04 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-05 18:00:04 element.py{funcName:css}[line:105] INFO Css 元素定位：.up-btn
+18-07-05 18:00:17 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-05 18:00:17 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:00:18 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:00:18 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:00:20 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-05 18:00:21 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-05 18:00:22 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-05 18:00:22 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:00:23 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:00:23 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:00:25 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-05 18:00:26 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-05 18:00:26 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:00:27 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:00:27 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:00:27 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-05 18:00:28 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-05 18:00:28 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第4次寻找
+18-07-05 18:00:31 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-05 18:00:31 element.py{funcName:css}[line:105] INFO Css 元素定位：.up-btn
+18-07-05 18:00:43 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-05 18:00:44 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:00:45 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:00:45 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:00:47 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-05 18:00:48 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-05 18:00:48 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-05 18:00:48 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:00:49 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:00:49 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:00:51 element.py{funcName:css}[line:105] INFO Css 元素定位：.check-li li:nth-of-type(2)
+18-07-05 18:00:52 element.py{funcName:text}[line:111] INFO Text 元素定位：人工存提
+18-07-05 18:00:53 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-05 18:00:54 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-05 18:00:54 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:00:55 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:00:55 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:00:56 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-05 18:00:56 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-05 18:00:58 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-05 18:00:58 element.py{funcName:css}[line:105] INFO Css 元素定位：.up-btn
+18-07-05 18:01:11 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-05 18:01:11 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:01:12 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:01:12 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:01:14 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-05 18:01:15 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-05 18:01:15 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-05 18:01:15 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:01:16 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:01:16 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:01:18 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-05 18:01:19 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-05 18:01:19 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:01:20 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:01:20 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:01:21 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-05 18:01:21 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-05 18:01:22 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第4次寻找
+18-07-05 18:01:22 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第5次寻找
+18-07-05 18:01:24 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-05 18:01:24 element.py{funcName:css}[line:105] INFO Css 元素定位：.up-btn
+18-07-05 18:01:36 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-05 18:01:36 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:01:37 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:01:38 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:01:39 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-05 18:01:40 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-05 18:01:41 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-05 18:01:41 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:01:42 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:01:42 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:01:44 element.py{funcName:css}[line:105] INFO Css 元素定位：.check-li li:nth-of-type(3)
+18-07-05 18:01:45 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-05 18:01:46 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-05 18:01:46 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:01:47 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:01:47 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:01:48 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-05 18:01:48 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-05 18:01:49 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第4次寻找
+18-07-05 18:01:49 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第5次寻找
+18-07-05 18:01:51 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-05 18:01:51 element.py{funcName:css}[line:105] INFO Css 元素定位：.up-btn
+18-07-05 18:02:03 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-05 18:02:03 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:02:04 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:02:05 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:02:05 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-05 18:02:06 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-05 18:02:06 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第4次寻找
+18-07-05 18:02:07 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第5次寻找
+18-07-05 18:02:08 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-05 18:02:09 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-05 18:02:10 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-05 18:02:10 element.py{funcName:id}[line:99] INFO Id 元素定位：amount
+18-07-05 18:02:11 element.py{funcName:xpath}[line:117] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-05 18:02:11 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-05 18:02:12 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-05 18:02:12 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-05 18:02:13 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第4次寻找
+18-07-05 18:02:13 element.py{funcName:trywait_assert_xpath}[line:229] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第5次寻找
+18-07-05 18:02:22 run.py{funcName:<module>}[line:55] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-05 18:02:22 run.py{funcName:<module>}[line:56] INFO 测试结束
+18-07-06 12:50:11 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:50:12 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:50:14 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:14 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:14 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:14 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:14 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:14 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:14 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:14 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:14 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:50:14 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:50:15 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 12:50:15 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 12:50:16 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 12:50:16 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 12:50:17 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:50:17 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:50:17 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:17 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:17 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:17 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:17 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:17 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:17 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:17 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:17 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:50:17 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:50:18 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 12:50:18 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 12:50:19 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 12:50:19 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 12:50:20 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:50:20 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:50:20 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:20 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:20 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:20 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:20 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:20 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:20 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:21 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:21 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:50:21 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:50:22 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:50:22 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:50:22 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:22 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:22 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:22 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:22 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:22 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:22 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:22 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:22 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:50:22 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:50:31 run.py{funcName:<module>}[line:58] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 12:50:31 run.py{funcName:<module>}[line:59] INFO 测试结束
+18-07-06 12:50:47 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:50:48 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:50:50 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:50 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:50 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:50 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:50 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:50 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:50 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:50 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:50 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:50:50 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:50:51 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 12:50:51 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 12:50:52 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 12:50:52 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 12:50:53 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:50:53 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:50:53 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:53 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:53 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:53 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:53 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:53 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:53 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:53 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:53 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:50:53 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:50:54 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 12:50:54 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 12:50:55 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 12:50:55 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 12:50:56 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:50:56 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:50:56 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:56 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:56 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:56 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:56 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:56 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:56 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:56 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:56 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:50:57 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:50:57 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:50:57 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:50:57 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:58 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:58 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:58 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:58 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:58 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:58 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:50:58 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:50:58 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:50:58 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:51:07 run.py{funcName:<module>}[line:58] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 12:51:07 run.py{funcName:<module>}[line:59] INFO 测试结束
+18-07-06 12:51:40 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:51:42 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:51:43 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:43 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:43 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:43 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:43 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:43 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:43 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:43 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:43 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:51:43 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:51:44 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 12:51:44 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 12:51:45 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 12:51:45 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 12:51:46 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:51:46 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:51:46 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:46 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:46 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:46 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:46 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:46 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:46 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:47 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:47 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:51:47 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:51:47 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 12:51:48 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 12:51:48 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 12:51:49 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 12:51:49 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:51:50 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:51:50 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:50 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:50 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:50 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:50 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:50 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:50 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:50 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:50 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:51:50 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:51:51 element.py{funcName:openurl}[line:39] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 12:51:51 element.py{funcName:windowMax}[line:52] INFO 浏览器最大化
+18-07-06 12:51:51 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:51 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:51 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:51 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:51 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:51 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:51 element.py{funcName:name}[line:91] INFO Name 元素定位：username
+18-07-06 12:51:51 element.py{funcName:name}[line:91] INFO Name 元素定位：password
+18-07-06 12:51:51 element.py{funcName:css}[line:109] INFO Css 元素定位：.login-button
+18-07-06 12:51:51 element.py{funcName:trywait_assert_xpath}[line:233] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 12:52:00 run.py{funcName:<module>}[line:58] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 12:52:00 run.py{funcName:<module>}[line:59] INFO 测试结束
+18-07-06 14:33:03 element.py{funcName:windowMax}[line:53] INFO 浏览器最大化
+18-07-06 14:33:04 element.py{funcName:openurl}[line:40] INFO 打开网页：http://192.168.1.203:8090/#/login
+18-07-06 14:33:04 element.py{funcName:windowMax}[line:53] INFO 浏览器最大化
+18-07-06 14:33:06 element.py{funcName:jt}[line:275] INFO 元素坐标 {'y': 423.0, 'x': 1482.0}
+18-07-06 14:33:06 element.py{funcName:jt}[line:276] INFO 元素大小 {'width': 146, 'height': 30}
+18-07-06 14:33:15 run.py{funcName:<module>}[line:59] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 14:33:15 run.py{funcName:<module>}[line:60] INFO 测试结束
+18-07-06 14:37:10 element.py{funcName:windowMax}[line:53] INFO 浏览器最大化
+18-07-06 14:37:11 element.py{funcName:openurl}[line:40] INFO 打开网页：http://192.168.1.203:8090/#/login
+18-07-06 14:37:12 element.py{funcName:windowMax}[line:53] INFO 浏览器最大化
+18-07-06 14:37:12 element.py{funcName:css}[line:110] INFO Css 元素定位：.valid_img
+18-07-06 14:37:13 element.py{funcName:jt}[line:273] INFO 元素坐标 {'y': 423.0, 'x': 1482.0}
+18-07-06 14:37:13 element.py{funcName:jt}[line:274] INFO 元素大小 {'width': 146, 'height': 30}
+18-07-06 14:37:22 run.py{funcName:<module>}[line:59] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 14:37:22 run.py{funcName:<module>}[line:60] INFO 测试结束
+18-07-06 15:28:12 element.py{funcName:windowMax}[line:54] INFO 浏览器最大化
+18-07-06 15:28:13 element.py{funcName:openurl}[line:41] INFO 打开网页：http://192.168.1.203:8090/#/login
+18-07-06 15:28:14 element.py{funcName:windowMax}[line:54] INFO 浏览器最大化
+18-07-06 15:28:14 element.py{funcName:css}[line:111] INFO Css 元素定位：.[type="text"]
+18-07-06 15:28:23 run.py{funcName:<module>}[line:59] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 15:28:23 run.py{funcName:<module>}[line:60] INFO 测试结束
+18-07-06 15:28:41 element.py{funcName:windowMax}[line:54] INFO 浏览器最大化
+18-07-06 15:28:42 element.py{funcName:openurl}[line:41] INFO 打开网页：http://192.168.1.203:8090/#/login
+18-07-06 15:28:43 element.py{funcName:windowMax}[line:54] INFO 浏览器最大化
+18-07-06 15:28:43 element.py{funcName:css}[line:111] INFO Css 元素定位：[type="text"]
+18-07-06 15:28:43 element.py{funcName:css}[line:111] INFO Css 元素定位：[type="password"]
+18-07-06 15:28:43 element.py{funcName:css}[line:111] INFO Css 元素定位：.valid_img
+18-07-06 15:28:44 element.py{funcName:get_verificationCode}[line:274] INFO 获取图片元素坐标 {'y': 423.0, 'x': 1482.0}
+18-07-06 15:28:44 element.py{funcName:get_verificationCode}[line:275] INFO 获取图片元素大小 {'width': 146, 'height': 30}
+18-07-06 15:28:51 element.py{funcName:get_verificationCode}[line:287] INFO 若快识别结果为    -8
+18-07-06 15:28:51 element.py{funcName:css}[line:111] INFO Css 元素定位：[type="telephone"]
+18-07-06 15:28:51 element.py{funcName:css}[line:111] INFO Css 元素定位：button
+18-07-06 15:28:51 element.py{funcName:xpath}[line:123] INFO Xpath 元素定位：//div[@id='app']/div[@class='app pc']//div[@class='ant-layout ant-layout-has-sider']/div[@class='ant-layout']//div[@class='ant-row']/div[12]/button[@type='button']
+18-07-06 15:29:00 run.py{funcName:<module>}[line:59] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 15:29:00 run.py{funcName:<module>}[line:60] INFO 测试结束
+18-07-06 15:30:23 element.py{funcName:windowMax}[line:54] INFO 浏览器最大化
+18-07-06 15:30:24 element.py{funcName:openurl}[line:41] INFO 打开网页：http://192.168.1.203:8090/#/login
+18-07-06 15:30:25 element.py{funcName:windowMax}[line:54] INFO 浏览器最大化
+18-07-06 15:30:25 element.py{funcName:css}[line:111] INFO Css 元素定位：[type="text"]
+18-07-06 15:30:25 element.py{funcName:css}[line:111] INFO Css 元素定位：[type="password"]
+18-07-06 15:30:25 element.py{funcName:css}[line:111] INFO Css 元素定位：.valid_img
+18-07-06 15:30:26 element.py{funcName:get_verificationCode}[line:274] INFO 获取图片元素坐标 {'y': 423.0, 'x': 1482.0}
+18-07-06 15:30:26 element.py{funcName:get_verificationCode}[line:275] INFO 获取图片元素大小 {'width': 146, 'height': 30}
+18-07-06 15:30:30 element.py{funcName:get_verificationCode}[line:287] INFO 若快识别结果为    15
+18-07-06 15:30:30 element.py{funcName:css}[line:111] INFO Css 元素定位：[type="telephone"]
+18-07-06 15:30:30 element.py{funcName:css}[line:111] INFO Css 元素定位：button
+18-07-06 15:30:48 run.py{funcName:<module>}[line:59] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 15:30:48 run.py{funcName:<module>}[line:60] INFO 测试结束
+18-07-06 16:06:38 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 16:06:39 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 16:16:45 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 16:16:46 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 16:17:20 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 16:17:21 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 16:17:21 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:17:21 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:17:22 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:17:22 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:17:29 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 16:17:29 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 16:17:30 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:17:30 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:17:30 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:17:37 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.191/mayi-h5/index.html#/home/my
+18-07-06 16:17:38 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 16:17:39 element.py{funcName:css}[line:112] INFO Css 元素定位：.footer-nav li:nth-of-type(1) span
+18-07-06 16:17:40 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div[@class='container']//h4[.='北京赛车']
+18-07-06 16:17:40 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div//img[@src='images/03096d79.bet10@3x.png']
+18-07-06 16:17:44 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div//img[@src='images/03096d79.bet10@3x.png']
+18-07-06 16:17:51 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:17:52 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:52 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:52 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:52 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:52 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:52 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:52 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:52 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:52 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 16:17:52 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 16:17:53 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 16:17:53 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 16:17:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 16:17:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 16:17:55 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:17:55 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:55 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:55 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:55 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:55 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:55 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:55 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:55 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:55 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 16:17:55 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 16:17:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 16:17:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 16:17:57 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 16:17:57 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 16:17:58 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:17:58 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:58 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:58 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:58 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:58 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:58 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:58 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:17:59 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:17:59 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 16:17:59 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 16:18:00 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:18:00 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:18:00 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:18:00 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:18:00 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:18:00 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:18:00 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:18:00 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:18:00 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:18:00 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 16:18:00 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 16:18:07 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 16:18:08 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:18:09 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 16:18:09 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:18:09 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:18:09 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 16:18:10 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 16:18:10 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 16:18:11 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'财务管理')]
+18-07-06 16:18:12 element.py{funcName:text}[line:118] INFO Text 元素定位：人工存提
+18-07-06 16:18:14 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 16:18:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 16:18:15 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:18:16 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:18:16 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:18:16 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 16:18:17 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 16:18:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 16:18:19 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 16:18:31 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 16:18:31 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:18:33 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:18:33 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:18:34 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 16:18:35 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 16:18:36 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 16:18:36 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:18:37 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:18:37 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:18:39 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 16:18:40 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 16:18:40 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:18:41 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:18:41 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:18:42 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 16:18:42 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 16:18:45 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 16:18:45 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 16:18:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 16:18:58 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:18:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:18:59 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 16:19:02 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 16:19:02 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 16:19:02 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:19:03 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:19:03 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:19:05 element.py{funcName:css}[line:112] INFO Css 元素定位：.check-li li:nth-of-type(2)
+18-07-06 16:19:06 element.py{funcName:text}[line:118] INFO Text 元素定位：人工存提
+18-07-06 16:19:07 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 16:19:08 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 16:19:08 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:19:09 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:19:09 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:19:10 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 16:19:10 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 16:19:12 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 16:19:12 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 16:19:25 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 16:19:25 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:19:26 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:19:26 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:19:28 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 16:19:29 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 16:19:29 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 16:19:29 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:19:30 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:19:30 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:19:32 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 16:19:33 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 16:19:33 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:19:34 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:19:34 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:19:35 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 16:19:35 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 16:19:37 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 16:19:37 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 16:19:50 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 16:19:50 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:19:51 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:19:51 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:19:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 16:19:54 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 16:19:54 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 16:19:54 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:19:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:19:55 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:19:57 element.py{funcName:css}[line:112] INFO Css 元素定位：.check-li li:nth-of-type(3)
+18-07-06 16:19:58 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 16:19:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 16:19:59 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:20:00 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:20:00 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:20:01 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 16:20:01 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 16:20:03 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 16:20:03 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 16:20:16 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 16:20:16 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:20:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:20:17 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:20:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 16:20:20 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 16:20:20 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 16:20:20 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 16:20:21 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:20:21 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 16:20:29 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 16:20:30 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.203:8090/#/login
+18-07-06 16:20:31 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 16:20:31 element.py{funcName:css}[line:112] INFO Css 元素定位：[type="text"]
+18-07-06 16:20:31 element.py{funcName:css}[line:112] INFO Css 元素定位：[type="password"]
+18-07-06 16:20:31 element.py{funcName:css}[line:112] INFO Css 元素定位：.valid_img
+18-07-06 16:20:32 element.py{funcName:get_verificationCode}[line:276] INFO 获取图片元素坐标 {'y': 423.0, 'x': 1482.0}
+18-07-06 16:20:32 element.py{funcName:get_verificationCode}[line:277] INFO 获取图片元素大小 {'width': 146, 'height': 30}
+18-07-06 16:20:32 element.py{funcName:get_verificationCode}[line:289] INFO 若快识别结果为    用户名或密码不能为空.
+18-07-06 16:20:32 element.py{funcName:css}[line:112] INFO Css 元素定位：[type="telephone"]
+18-07-06 16:20:33 element.py{funcName:css}[line:112] INFO Css 元素定位：button
+18-07-06 16:20:52 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 16:20:52 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 16:35:34 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 16:35:35 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:35:35 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:35:35 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:35:36 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:35:36 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:35:43 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 16:35:43 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:35:44 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:35:44 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:35:44 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:35:51 element.py{funcName:windowMax}[line:55] INFO ��������
+18-07-06 16:35:52 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.203:8090/#/login
+18-07-06 16:35:53 element.py{funcName:windowMax}[line:55] INFO ��������
+18-07-06 16:35:53 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��[type="text"]
+18-07-06 16:35:53 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��[type="password"]
+18-07-06 16:35:53 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.valid_img
+18-07-06 16:35:54 element.py{funcName:get_verificationCode}[line:276] INFO ��ȡͼƬԪ������ {'x': 1482, 'y': 423}
+18-07-06 16:35:54 element.py{funcName:get_verificationCode}[line:277] INFO ��ȡͼƬԪ�ش�С {'height': 30, 'width': 146}
+18-07-06 16:36:06 element.py{funcName:get_verificationCode}[line:289] INFO ����ʶ����Ϊ    2
+18-07-06 16:36:06 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��[type="telephone"]
+18-07-06 16:36:06 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��button
+18-07-06 16:36:23 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.191/mayi-h5/index.html#/home/my
+18-07-06 16:36:24 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:36:24 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.footer-nav li:nth-of-type(1) span
+18-07-06 16:36:25 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��/html//div[@id='app']/div[@class='container']//h4[.='��������']
+18-07-06 16:36:25 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��/html//div[@id='app']/div//img[@src='images/03096d79.bet10@3x.png']
+18-07-06 16:36:29 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��/html//div[@id='app']/div//img[@src='images/03096d79.bet10@3x.png']
+18-07-06 16:36:36 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:36:38 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:38 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:38 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:38 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:38 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:38 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:38 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:38 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:38 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:36:38 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:36:39 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:36:39 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:36:40 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:36:40 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:36:41 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:36:41 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:41 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:41 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:41 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:41 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:41 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:41 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:41 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:41 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:36:41 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:36:42 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:36:42 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:36:43 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:36:43 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:36:44 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:36:44 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:44 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:44 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:44 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:44 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:44 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:44 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:44 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:45 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:36:45 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:36:45 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:36:45 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:46 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:46 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:46 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:46 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:46 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:46 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:46 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:46 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:36:46 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:36:53 element.py{funcName:windowMax}[line:55] INFO ��������
+18-07-06 16:36:54 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:36:55 element.py{funcName:windowMax}[line:55] INFO ��������
+18-07-06 16:36:55 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:55 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:56 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:36:56 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:36:56 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:36:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:36:58 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�������')]
+18-07-06 16:36:59 element.py{funcName:text}[line:118] INFO Text Ԫ�ض�λ���˹�����
+18-07-06 16:37:00 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:37:01 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:37:01 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:37:02 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:37:02 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:37:03 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:37:03 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:37:05 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:37:05 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:37:18 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:37:18 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:37:19 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:37:19 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:37:21 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:37:22 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:37:23 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:37:23 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:37:24 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:37:24 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:37:25 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:37:26 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:37:27 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:37:28 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:37:28 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:37:28 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:37:29 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:37:31 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:37:32 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:37:44 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:37:44 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:37:45 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:37:45 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:37:47 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:37:48 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:37:48 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:37:48 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:37:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:37:50 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:37:51 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.check-li li:nth-of-type(2)
+18-07-06 16:37:52 element.py{funcName:text}[line:118] INFO Text Ԫ�ض�λ���˹�����
+18-07-06 16:37:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:37:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:37:55 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:37:56 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:37:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:37:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:37:57 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:37:58 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:37:59 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:38:11 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:38:11 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:38:12 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:38:12 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:38:14 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:38:15 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:38:15 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:38:16 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:38:17 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:38:17 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:38:18 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:38:19 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:38:20 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:38:21 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:38:21 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:38:21 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:38:22 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:38:23 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:38:24 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:38:36 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:38:36 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:38:37 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:38:37 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:38:39 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:38:40 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:38:40 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:38:40 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:38:41 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:38:42 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:38:43 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.check-li li:nth-of-type(3)
+18-07-06 16:38:44 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:38:45 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:38:45 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:38:47 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:38:47 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:38:47 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:38:48 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:38:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:38:49 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:39:02 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:39:02 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:39:03 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:39:03 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:39:05 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:39:06 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:39:06 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:39:06 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:39:07 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:39:08 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:39:16 run.py{funcName:<module>}[line:57] INFO ��"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" ���Ͳ��Ա����ʼ�
+18-07-06 16:39:16 run.py{funcName:<module>}[line:58] INFO ���Խ���
+18-07-06 16:41:43 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 16:41:44 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:41:45 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:41:46 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:41:46 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:46 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:46 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:47 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:47 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:47 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:47 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:47 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:47 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:41:47 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:41:48 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:41:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:49 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:49 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:41:50 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:41:50 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:41:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:51 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:41:52 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:41:52 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:41:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:53 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:41:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:41:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:41:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:41:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:41:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[3]
+18-07-06 16:42:05 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 16:42:06 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:42:07 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:42:07 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:42:08 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�ֻ��ŵ�¼']
+18-07-06 16:42:08 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:08 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:08 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:08 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:08 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:08 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:08 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:08 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:08 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:42:09 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:42:09 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:42:10 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:10 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:10 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:10 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:10 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:10 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:10 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:10 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:11 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:42:11 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:42:12 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:42:12 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:12 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:12 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:13 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:13 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:13 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:13 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:13 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:13 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:42:13 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:42:14 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:42:14 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:14 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:14 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:14 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:14 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:14 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:14 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:15 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:15 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:42:15 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:42:16 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:42:24 element.py{funcName:windowMax}[line:55] INFO ��������
+18-07-06 16:42:24 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.203:8090/#/login
+18-07-06 16:42:25 element.py{funcName:windowMax}[line:55] INFO ��������
+18-07-06 16:42:25 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��[type="text"]
+18-07-06 16:42:25 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��[type="password"]
+18-07-06 16:42:25 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.valid_img
+18-07-06 16:42:26 element.py{funcName:get_verificationCode}[line:276] INFO ��ȡͼƬԪ������ {'x': 1482, 'y': 423}
+18-07-06 16:42:26 element.py{funcName:get_verificationCode}[line:277] INFO ��ȡͼƬԪ�ش�С {'height': 30, 'width': 146}
+18-07-06 16:42:34 element.py{funcName:get_verificationCode}[line:289] INFO ����ʶ����Ϊ    17
+18-07-06 16:42:34 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��[type="telephone"]
+18-07-06 16:42:34 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��button
+18-07-06 16:42:52 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.191/mayi-h5/index.html#/home/my
+18-07-06 16:42:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:42:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:42:54 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[text()='�����¼']
+18-07-06 16:42:54 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 16:42:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 16:42:55 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//*[@id="app"]/div/div/content/div[2]/div[3]
+18-07-06 16:42:55 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='Ͷע��¼']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:42:56 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.footer-nav li:nth-of-type(1) span
+18-07-06 16:42:57 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��/html//div[@id='app']/div[@class='container']//h4[.='��������']
+18-07-06 16:42:57 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��/html//div[@id='app']/div//img[@src='images/03096d79.bet10@3x.png']
+18-07-06 16:43:06 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:43:07 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:07 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:07 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:07 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:07 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:07 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:07 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:08 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:08 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:43:08 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:43:08 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:43:09 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:43:09 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:43:10 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:43:11 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:43:11 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:11 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:11 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:11 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:11 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:11 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:11 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:12 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:12 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:43:12 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:43:13 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:43:13 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:43:14 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:43:14 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:43:15 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:43:15 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:15 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:15 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:15 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:15 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:15 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:15 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:15 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:15 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:43:16 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:43:16 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:43:16 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:16 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:16 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:16 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:16 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:16 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:17 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:17 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:17 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:43:17 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:43:25 element.py{funcName:windowMax}[line:55] INFO ��������
+18-07-06 16:43:26 element.py{funcName:openurl}[line:42] INFO ����ҳ��http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 16:43:27 element.py{funcName:windowMax}[line:55] INFO ��������
+18-07-06 16:43:27 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:27 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:27 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��username
+18-07-06 16:43:27 element.py{funcName:name}[line:94] INFO Name Ԫ�ض�λ��password
+18-07-06 16:43:28 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.login-button
+18-07-06 16:43:28 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[text()='�̻�����ƽ̨']:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:43:30 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�������')]
+18-07-06 16:43:31 element.py{funcName:text}[line:118] INFO Text Ԫ�ض�λ���˹�����
+18-07-06 16:43:32 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:43:33 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:43:34 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:43:35 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:43:35 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:43:35 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:43:36 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:43:37 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:43:38 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:43:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:43:51 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:43:52 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:43:52 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:43:53 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:43:53 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:43:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:43:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:43:56 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:43:57 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:43:58 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:43:59 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:43:59 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:44:00 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:44:01 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:44:01 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:44:02 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:44:02 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:44:03 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:44:05 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:44:05 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:44:17 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:44:18 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:44:19 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:44:19 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:44:19 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:44:20 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:44:20 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:44:21 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:44:22 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:44:23 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:44:25 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.check-li li:nth-of-type(2)
+18-07-06 16:44:26 element.py{funcName:text}[line:118] INFO Text Ԫ�ض�λ���˹�����
+18-07-06 16:44:27 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:44:28 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:44:28 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:44:29 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:44:29 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:44:29 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:44:30 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:44:30 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:44:31 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:44:33 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:44:33 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:44:45 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:44:45 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:44:46 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:44:46 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:44:47 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:44:47 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:44:48 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:44:48 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:44:50 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:44:51 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:44:52 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:44:53 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:44:53 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:44:54 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:44:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:44:55 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:44:55 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:44:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:44:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:44:58 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:44:58 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:45:11 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:45:11 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:45:12 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:45:12 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:45:13 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:45:13 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:45:14 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:45:14 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:45:16 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:45:17 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:45:18 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ʽ�')]
+18-07-06 16:45:18 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:45:19 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:45:19 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:45:21 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.check-li li:nth-of-type(3)
+18-07-06 16:45:22 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�����û�')]
+18-07-06 16:45:23 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:45:23 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:45:24 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:45:24 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:45:25 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:45:26 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'ָ���û�')]
+18-07-06 16:45:26 element.py{funcName:css}[line:112] INFO Css Ԫ�ض�λ��.up-btn
+18-07-06 16:45:39 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:45:39 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:45:40 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:45:40 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:45:41 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��2��Ѱ��
+18-07-06 16:45:41 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��3��Ѱ��
+18-07-06 16:45:42 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��4��Ѱ��
+18-07-06 16:45:42 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��5��Ѱ��
+18-07-06 16:45:44 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�û��ȼ�')]
+18-07-06 16:45:45 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'�ƽ�VIP')]
+18-07-06 16:45:46 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��//span[contains(text(),'���������')]
+18-07-06 16:45:46 element.py{funcName:id}[line:106] INFO Id Ԫ�ض�λ��amount
+18-07-06 16:45:47 element.py{funcName:xpath}[line:124] INFO Xpath Ԫ�ض�λ��html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 16:45:47 element.py{funcName:trywait_assert_xpath}[line:236] INFO �ȴ�����:   //span[contains(text(),'�ύ�ɹ�')]:Ԫ��δ�ҵ�,��ǰ��1��Ѱ��
+18-07-06 16:45:53 run.py{funcName:<module>}[line:57] INFO ��"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" ���Ͳ��Ա����ʼ�
+18-07-06 16:45:53 run.py{funcName:<module>}[line:58] INFO ���Խ���
+18-07-06 17:18:50 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:18:51 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:18:52 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:18:52 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:18:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:53 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第1次寻找
+18-07-06 17:18:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第2次寻找
+18-07-06 17:18:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第3次寻找
+18-07-06 17:18:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:55 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第1次寻找
+18-07-06 17:18:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第2次寻找
+18-07-06 17:18:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第3次寻找
+18-07-06 17:18:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:57 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第1次寻找
+18-07-06 17:18:58 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第2次寻找
+18-07-06 17:18:58 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第3次寻找
+18-07-06 17:18:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:18:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:18:59 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第1次寻找
+18-07-06 17:19:00 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第2次寻找
+18-07-06 17:19:00 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第3次寻找
+18-07-06 17:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[3]
+18-07-06 17:19:11 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:19:12 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:19:12 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:19:12 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:19:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='手机号登录']
+18-07-06 17:19:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:14 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:14 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第1次寻找
+18-07-06 17:19:14 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第2次寻找
+18-07-06 17:19:15 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第3次寻找
+18-07-06 17:19:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:15 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第1次寻找
+18-07-06 17:19:16 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第2次寻找
+18-07-06 17:19:16 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第3次寻找
+18-07-06 17:19:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:17 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第1次寻找
+18-07-06 17:19:18 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第2次寻找
+18-07-06 17:19:18 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第3次寻找
+18-07-06 17:19:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:19 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第1次寻找
+18-07-06 17:19:20 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第2次寻找
+18-07-06 17:19:20 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第3次寻找
+18-07-06 17:19:29 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.191/mayi-h5/index.html#/home/my
+18-07-06 17:19:30 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:19:30 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:19:31 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:19:31 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:19:31 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[2]/input
+18-07-06 17:19:31 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[3]
+18-07-06 17:19:32 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='投注记录']:元素未找到,当前第1次寻找
+18-07-06 17:19:32 element.py{funcName:css}[line:112] INFO Css 元素定位：.footer-nav li:nth-of-type(1) span
+18-07-06 17:19:33 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div[@class='container']//h4[.='北京赛车']
+18-07-06 17:19:33 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div//img[@src='images/03096d79.bet10@3x.png']
+18-07-06 17:19:44 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:19:45 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:46 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:46 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:46 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:46 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:46 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:46 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:46 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:46 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:19:46 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:19:47 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 17:19:47 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 17:19:48 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 17:19:49 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 17:19:49 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:19:49 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:49 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:49 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:49 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:49 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:49 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:49 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:50 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:50 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:19:50 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:19:50 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 17:19:51 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 17:19:51 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 17:19:52 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 17:19:52 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:19:52 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:52 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:52 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:52 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:52 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:52 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:53 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:53 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:53 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:19:53 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:19:53 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:19:53 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:53 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:53 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:53 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:54 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:54 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:54 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:19:54 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:19:54 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:19:54 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:20:02 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 17:20:03 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:20:04 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 17:20:04 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:20:04 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:20:04 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:20:05 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:20:05 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:20:06 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:20:08 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'财务管理')]
+18-07-06 17:20:09 element.py{funcName:text}[line:118] INFO Text 元素定位：人工存提
+18-07-06 17:20:10 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:20:11 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:20:11 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:20:12 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:20:12 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:20:13 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:20:13 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:20:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:20:15 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:20:29 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:20:29 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:20:31 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:20:31 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:20:32 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:20:33 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:20:34 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:20:34 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:20:35 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:20:35 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:20:37 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:20:38 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:20:38 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:20:39 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:20:39 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:20:40 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:20:40 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:20:43 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:20:43 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:20:56 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:20:56 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:20:58 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:20:58 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:20:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:21:00 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:21:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:21:01 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:21:02 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:21:02 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:21:04 element.py{funcName:css}[line:112] INFO Css 元素定位：.check-li li:nth-of-type(2)
+18-07-06 17:21:05 element.py{funcName:text}[line:118] INFO Text 元素定位：人工存提
+18-07-06 17:21:06 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:21:07 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:21:07 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:21:08 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:21:08 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:21:09 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:21:09 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:21:11 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:21:11 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:21:24 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:21:24 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:21:25 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:21:26 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:21:27 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:21:28 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:21:29 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:21:29 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:21:30 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:21:30 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:21:32 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:21:33 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:21:33 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:21:34 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:21:34 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:21:35 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:21:35 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:21:37 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:21:37 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:21:50 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:21:51 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:21:52 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:21:52 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:21:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:21:54 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:21:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:21:55 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:21:56 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:21:56 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:21:58 element.py{funcName:css}[line:112] INFO Css 元素定位：.check-li li:nth-of-type(3)
+18-07-06 17:21:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:22:00 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:22:00 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:22:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:22:01 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:22:02 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:22:02 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:22:04 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:22:04 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:22:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:22:17 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:22:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:22:19 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:22:20 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:22:21 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:22:22 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:22:22 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:22:23 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:22:23 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:22:32 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 17:22:32 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.203:8090/#/login
+18-07-06 17:22:33 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 17:22:33 element.py{funcName:css}[line:112] INFO Css 元素定位：[type="text"]
+18-07-06 17:22:33 element.py{funcName:css}[line:112] INFO Css 元素定位：[type="password"]
+18-07-06 17:22:33 element.py{funcName:css}[line:112] INFO Css 元素定位：.valid_img
+18-07-06 17:22:34 element.py{funcName:get_verificationCode}[line:276] INFO 获取图片元素坐标 {'y': 423.0, 'x': 1482.0}
+18-07-06 17:22:34 element.py{funcName:get_verificationCode}[line:277] INFO 获取图片元素大小 {'width': 146, 'height': 30}
+18-07-06 17:22:37 element.py{funcName:get_verificationCode}[line:289] INFO 若快识别结果为    1
+18-07-06 17:22:37 element.py{funcName:css}[line:112] INFO Css 元素定位：[type="telephone"]
+18-07-06 17:22:37 element.py{funcName:css}[line:112] INFO Css 元素定位：button
+18-07-06 17:22:52 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:22:52 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:28:56 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:28:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:28:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:28:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:28:58 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:28:58 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:29:01 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:29:02 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:29:02 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:29:02 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:29:03 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:29:06 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.191/mayi-h5/index.html#/home/my
+18-07-06 17:29:07 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:29:07 element.py{funcName:css}[line:112] INFO Css 元素定位：.footer-nav li:nth-of-type(1) span
+18-07-06 17:29:08 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div[@class='container']//h4[.='北京赛车']
+18-07-06 17:29:09 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div//img[@src='images/03096d79.bet10@3x.png']
+18-07-06 17:29:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div//img[@src='images/03096d79.bet10@3x.png']
+18-07-06 17:29:16 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:29:18 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:18 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:18 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:18 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:18 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:18 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:18 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:18 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:18 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:29:18 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:29:19 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 17:29:19 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 17:29:20 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 17:29:20 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 17:29:21 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:29:21 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:21 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:21 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:21 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:21 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:21 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:21 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:21 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:21 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:29:21 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:29:22 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 17:29:22 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 17:29:23 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 17:29:23 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 17:29:24 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:29:24 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:24 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:24 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:24 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:24 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:24 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:24 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:24 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:24 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:29:24 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:29:25 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:29:25 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:25 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:25 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:25 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:25 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:25 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:25 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:25 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:25 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:29:25 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:29:29 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 17:29:31 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:29:33 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 17:29:33 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:34 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:34 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:29:34 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:29:34 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:29:34 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:29:36 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'财务管理')]
+18-07-06 17:29:37 element.py{funcName:text}[line:118] INFO Text 元素定位：人工存提
+18-07-06 17:29:38 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:29:39 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:29:39 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:29:40 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:29:40 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:29:41 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:29:41 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:29:43 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:29:43 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:29:56 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:29:56 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:29:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:29:57 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:29:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:30:00 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:30:01 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:30:01 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:30:02 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:30:02 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:30:04 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:30:05 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:30:05 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:30:06 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:30:06 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:30:06 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:30:07 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:30:10 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:30:10 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:30:22 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:30:22 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:30:23 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:30:23 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:30:25 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:30:26 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:30:27 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:30:27 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:30:28 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:30:28 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:30:30 element.py{funcName:css}[line:112] INFO Css 元素定位：.check-li li:nth-of-type(2)
+18-07-06 17:30:31 element.py{funcName:text}[line:118] INFO Text 元素定位：人工存提
+18-07-06 17:30:32 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:30:33 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:30:33 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:30:34 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:30:34 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:30:35 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:30:35 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:30:37 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:30:37 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:30:49 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:30:49 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:30:50 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:30:50 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:30:52 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:30:53 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:30:54 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:30:54 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:30:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:30:55 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:30:57 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:30:58 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:30:58 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:30:59 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:30:59 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:31:00 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:31:00 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:31:02 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:31:02 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:31:14 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:31:14 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:31:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:31:15 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:31:17 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:31:18 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:31:19 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'彩金')]
+18-07-06 17:31:19 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:31:20 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:31:20 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:31:22 element.py{funcName:css}[line:112] INFO Css 元素定位：.check-li li:nth-of-type(3)
+18-07-06 17:31:23 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'所有用户')]
+18-07-06 17:31:24 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:31:24 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:31:25 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:31:25 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:31:26 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第2次寻找
+18-07-06 17:31:26 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第3次寻找
+18-07-06 17:31:28 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'指定用户')]
+18-07-06 17:31:28 element.py{funcName:css}[line:112] INFO Css 元素定位：.up-btn
+18-07-06 17:31:40 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:31:40 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:31:41 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:31:41 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:31:43 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'用户等级')]
+18-07-06 17:31:44 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'黄金VIP')]
+18-07-06 17:31:45 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[contains(text(),'可提现余额')]
+18-07-06 17:31:45 element.py{funcName:id}[line:106] INFO Id 元素定位：amount
+18-07-06 17:31:46 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：html/body/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/button
+18-07-06 17:31:46 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[contains(text(),'提交成功')]:元素未找到,当前第1次寻找
+18-07-06 17:31:53 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 17:31:55 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.203:8090/#/login
+18-07-06 17:31:55 element.py{funcName:windowMax}[line:55] INFO 浏览器最大化
+18-07-06 17:31:55 element.py{funcName:css}[line:112] INFO Css 元素定位：[type="text"]
+18-07-06 17:31:55 element.py{funcName:css}[line:112] INFO Css 元素定位：[type="password"]
+18-07-06 17:31:55 element.py{funcName:css}[line:112] INFO Css 元素定位：.valid_img
+18-07-06 17:31:57 element.py{funcName:get_verificationCode}[line:276] INFO 获取图片元素坐标 {'y': 423.0, 'x': 1482.0}
+18-07-06 17:31:57 element.py{funcName:get_verificationCode}[line:277] INFO 获取图片元素大小 {'width': 146, 'height': 30}
+18-07-06 17:32:02 element.py{funcName:get_verificationCode}[line:289] INFO 若快识别结果为    -5
+18-07-06 17:32:02 element.py{funcName:css}[line:112] INFO Css 元素定位：[type="telephone"]
+18-07-06 17:32:02 element.py{funcName:css}[line:112] INFO Css 元素定位：button
+18-07-06 17:32:17 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:32:17 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:34:27 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:34:28 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:34:28 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:34:29 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:34:29 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:34:36 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:34:38 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:38 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:38 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:38 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:38 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:38 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:38 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:38 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:38 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:34:38 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:34:39 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 17:34:39 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 17:34:40 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 17:34:40 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 17:34:41 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:34:41 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:41 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:41 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:41 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:41 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:41 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:41 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:41 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:41 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:34:42 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:34:42 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 17:34:43 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 17:34:43 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 17:34:44 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 17:34:44 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:34:44 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:45 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:45 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:45 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:45 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:45 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:45 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:45 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:45 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:34:45 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:34:46 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:34:46 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:46 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:46 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:46 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:46 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:46 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:46 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:34:46 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:34:46 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:34:46 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:34:55 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:34:55 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:37:12 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:37:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:37:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:37:14 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:37:14 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:37:21 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:37:22 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:22 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:22 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:22 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:22 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:22 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:22 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:22 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:22 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:37:23 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:37:23 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 17:37:24 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 17:37:24 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 17:37:25 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 17:37:25 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:37:25 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:25 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:25 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:25 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:26 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:26 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:26 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:26 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:26 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:37:26 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:37:26 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第2次寻找
+18-07-06 17:37:27 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第3次寻找
+18-07-06 17:37:27 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第4次寻找
+18-07-06 17:37:28 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第5次寻找
+18-07-06 17:37:29 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:37:29 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:29 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:29 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:29 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:29 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:29 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:29 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:29 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:29 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:37:29 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:37:30 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-Backstage/#/login
+18-07-06 17:37:30 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:30 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:30 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:30 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:30 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:30 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:30 element.py{funcName:name}[line:94] INFO Name 元素定位：username
+18-07-06 17:37:30 element.py{funcName:name}[line:94] INFO Name 元素定位：password
+18-07-06 17:37:30 element.py{funcName:css}[line:112] INFO Css 元素定位：.login-button
+18-07-06 17:37:30 element.py{funcName:trywait_assert_xpath}[line:236] INFO 等待断言:   //span[text()='商户管理平台']:元素未找到,当前第1次寻找
+18-07-06 17:37:39 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:37:39 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:40:12 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:40:14 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//span[text()='点击登录']
+18-07-06 17:40:14 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:40:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:40:15 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:40:23 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:40:23 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:43:54 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:43:54 element.py{funcName:css}[line:112] INFO Css 元素定位：.user-name
+18-07-06 17:43:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:43:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:43:55 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:44:04 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:44:04 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:45:08 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:45:09 element.py{funcName:css}[line:112] INFO Css 元素定位：.user-name
+18-07-06 17:45:10 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:45:10 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:45:10 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:45:19 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:45:19 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:47:49 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:47:50 element.py{funcName:css}[line:112] INFO Css 元素定位：user-left
+18-07-06 17:47:51 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:47:51 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:47:51 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:48:00 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:48:00 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:50:09 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:50:11 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：///span[@innertext='设置中心']
+18-07-06 17:50:12 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:50:12 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:50:12 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:50:20 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:50:20 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:51:11 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:51:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div[@class='container']/div[@class='my-content']//section//span[.='设置中心']
+18-07-06 17:51:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:51:13 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:51:14 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:51:22 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:51:22 run.py{funcName:<module>}[line:58] INFO 测试结束
+18-07-06 17:52:41 element.py{funcName:openurl}[line:42] INFO 打开网页：http://192.168.1.190/mayi-h5/index.html#/home/my
+18-07-06 17:52:43 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：/html//div[@id='app']/div[@class='container']//div[@class='money-top']/div[2]/div
+18-07-06 17:52:43 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:52:43 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:52:44 element.py{funcName:xpath}[line:124] INFO Xpath 元素定位：//*[@id="app"]/div/div/content/div[2]/div[1]/input
+18-07-06 17:52:52 run.py{funcName:<module>}[line:57] INFO 向"leiyonghn@163.com,leiyong711@163.com,1804882096@qq.com" 发送测试报告邮件
+18-07-06 17:52:52 run.py{funcName:<module>}[line:58] INFO 测试结束

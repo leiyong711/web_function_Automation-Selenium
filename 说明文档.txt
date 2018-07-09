@@ -1,0 +1,31 @@
+
+项目层级关系
+
+
+    Case                                    用例文件夹
+        --test*.py                              测试用例（可多个只需把*替换成数字，用例执行优先级）
+    Operation                               基本操作
+        --e_mail.py                             发送测试报告邮件
+        --element.py                            常用seleniuim内建方法（包含元素定位方法）
+        --verificationCode.py                   图像验证码识别
+    Report                                  测试报告
+        --2018-07-02                            测试报告日期文件夹
+            --11                                    时间(用于按时间进行存放报告)
+                --TestReport.html                       测试报告
+    WinScript                               windows上传脚本
+        --chrome_upload.exe                     谷歌浏览器文件上传脚本
+        --firefox_upload.exe                    火狐浏览器文件上传脚本
+    img                                     图片文件夹
+        --verificationCode.png                  待识别的图形验证码
+    log                                     日志文件
+        -- myapp.log                            python运行日志
+    log_config                              配置文件存放路径
+        --logConfig.py                          日志配置读取
+        --logger.conf                           日志配置
+    HTMLTestRunner.py                       标准测试报告模板(python2版本)
+    HTMLTestRunner_py3.py                   标准测试报告模板(python3版本)
+    HTMLTestRunner_H5                       适配H5截图测试报告模板(python2版本)
+    run.py                                  主方法
+
+
+

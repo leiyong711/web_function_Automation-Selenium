@@ -14,8 +14,9 @@ el = Element()
 class Test(unittest.TestCase):
     """火狐浏览器测试"""
 
-    def setUp(self):
-        self.driver = el.Driver()
+    @classmethod
+    def setUpClass(cls):
+        cls.driver = el.Driver()
 
     def testpassCase001(self):
         """百度搜索Python成功"""
@@ -29,5 +30,6 @@ class Test(unittest.TestCase):
         el.id("kw").send_keys("python")
         el.id("su1").click()
 
-    def tearDown(self):
-        self.driver.quit()
+    @classmethod
+    def tearDownClass(cls):
+        cls.driver.quit()

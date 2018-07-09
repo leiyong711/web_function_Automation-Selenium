@@ -1,8 +1,8 @@
 # !/usr/bin/env python
 # -*- coding:utf-8 -*-
-# project name: web_function_Automation-Selenium
+# project name: CP v1.3.1
 # author: "Lei Yong" 
-# creation time: 2018/4/9 14:21
+# creation time: 2018/4/9 10:10
 # Email: leiyong711@163.com
 
 import time
@@ -13,14 +13,14 @@ from email.mime.multipart import MIMEMultipart
 from email.header import Header
 
 
-def mail(recipient):
+def mail(recipient='leiyong711@163.com'):
     sender = ''  # 发件人邮箱
     my_pass = ''  # 授权码
     toRecipient = recipient.split(",")
 
     # 创建一个带附件的实例
     msg = MIMEMultipart()
-    msg['From'] = Header("WEB自动化测试报告 <%s>" % "最棒QA", 'utf-8')  # 显示的发件人
+    msg['From'] = Header("WEB自动化测试报告 <%s>" % "雷勇", 'utf-8')  # 显示的发件人
     msg['To'] = ",".join(toRecipient)  # 显示多个发件人
     msg['Subject'] = Header("自动化测试报告", "utf-8")  # 邮件主题
 
@@ -29,7 +29,6 @@ def mail(recipient):
     timeStr = time.strftime('%Y-%m-%d-%H', time.localtime(time.time()))
     attachmentPath = cur_path + 'Report\\' + timeStr[:10] + '\\' + timeStr[11:] + '\\'
 
-    # 遍历该文件夹下所有的HTML后缀的文件名
     attachmentTemp = os.listdir(attachmentPath)
     for i in range(len(attachmentTemp)):
         if str(attachmentTemp[i]).find(".html") != -1:
@@ -54,11 +53,11 @@ def mail(recipient):
         server.sendmail(sender, toRecipient, msg.as_string())
         # 关闭连接
         server.quit()
-        print "邮件发送成功"
+        print("邮件发送成功")
 
     except smtplib.SMTPException:
-        print "无法发送邮件"
+        print("无法发送邮件")
 
 
 if __name__ == "__main__":
-    mail("leiyong711@163.com")  # 手机人多个收件人用,分隔
+    mail("leiyonghn@163.com,1804882096@qq.com")
