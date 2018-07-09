@@ -44,7 +44,7 @@
 
 ### H5测试报告详情展开状态
 
-![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/3.jpg)
+![image](https://raw.githubusercontent.com/leiyong711/web_function_Automation-Selenium/master/3.png)
 
 <br>
 
